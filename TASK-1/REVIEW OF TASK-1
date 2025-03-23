@@ -1,2 +1,5 @@
-MAKE SURE YOU ARE IN HOME DIRECTORY IN LINUX(UBUNTU) BY TYPING "cd" IN TERMINAL IN UBUNTU.
-Write a program to compute the sum of 1 to n numbers is written in C language  in  leafpad application and implemented in gcc. 
+MAKE SURE YOU ARE IN HOME DIRECTORY IN LINUX(UBUNTU) BY TYPING  "cd"  IN TERMINAL IN UBUNTU.
+Write a program to compute the sum of 1 to n numbers is written in C language  in  leafpad application and implemented in gcc.
+REFER "sum1ton.c" file  for c program.
+Then type  "gcc sum1ton.c" as in screenshot
+ 
