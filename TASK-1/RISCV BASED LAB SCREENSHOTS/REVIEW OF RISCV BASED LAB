@@ -30,6 +30,7 @@ riscv-objdump: This command is a tool used to disassemble and inspect RISC-V bin
                The use of -Ofast is typically chosen for applications where execution speed is critical and where deviations from standard behavior are acceptable.
                This flag is used to instruct the compiler to optimize the generated code for maximum speed.
                
--O1          : This options is an optimization level that tells the compiler to optimize the generated code but without greatly increasing compilation time. 
-               -O1 aims to reduce code size and execution time while keeping the compilation process relatively quick.
+-O1          : This command nables some optimizations that improve execution speed without significantly increasing compilation time and
+               avoids aggressive optimizations that might increase code size or affect debugging.
+                This command optimizes common patterns such as constant folding, dead code elimination, and basic loop optimizations.
 
