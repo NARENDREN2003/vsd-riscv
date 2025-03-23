@@ -5,6 +5,6 @@ GCC COMPLIED C CODE:
     Then type  "gcc sum1ton.c" as in screenshot named as ((gcc compiled code output for (n=10)_22_03_2025_18_48_51.png))
     In the Next line type "ls -ltr" to list the files in the home directory
     From the list of files chose "a.out" file for the display of output.
-    Type "./a.out" in terminal to display the output.REFER BOTH screenshots named as C out 
-
+    Type "./a.out" in terminal to display the output.REFER BOTH screenshots named as C output. 
+    // I have used a program with different n values and displayed the output//
  
