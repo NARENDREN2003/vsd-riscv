@@ -1,5 +1,8 @@
 //RISCV BASED LAB
-
+We have to do the same compilation of our code using RISCV gcc compiler. 
+Follow the given steps:
+       Open the terminal and run the given command:
+             cat sum_1ton.c
 
 
 -mabi=lp64   : This instruction tells that the ABI (Application Binary Interface) to use lp64, which is for 64-bit integer, long and pointer size. 
