@@ -1,5 +1,10 @@
 MAKE SURE YOU ARE IN HOME DIRECTORY IN LINUX(UBUNTU) BY TYPING  "cd"  IN TERMINAL IN UBUNTU.
-Write a program to compute the sum of 1 to n numbers is written in C language  in  leafpad application and implemented in gcc.
-REFER "sum1ton.c" file  for c program.
-Then type  "gcc sum1ton.c" as in screenshot
+GCC COMPLIED C CODE:
+    Write a program to compute the sum of 1 to n numbers is written in C language  in  leafpad application and implemented in gcc.
+    REFER "sum1ton.c" file  for c program.
+    Then type  "gcc sum1ton.c" as in screenshot named as ((gcc compiled code output for (n=10)_22_03_2025_18_48_51.png))
+    Type "ls -ltr" to list the files in the home directory
+    From the list of files chose "a.out" file for the display of output.
+    Type "./a.out" in terminal to display the output.REFER 
+
  
